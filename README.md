@@ -15,8 +15,7 @@ Then go to one of those websites:
 surprisingly, the bluetooth - usb stick that comes with the mBot works out of the box and its clever designed. Its detected by linux as a ch341-uart device, not a bluetooth card.
 
 ## 2. Using Arduino IDE ( or any other IDE, like platformio )
-
-First, install the library: https://github.com/Makeblock-official/Makeblock-Libraries
-Then set the Arduino uno as the board, and Parallel Programmer as the programmer.
+- First, install the library: https://github.com/Makeblock-official/Makeblock-Libraries
+- Then set the Arduino uno as the board, and Parallel Programmer as the programmer.
 
 Thats it!
