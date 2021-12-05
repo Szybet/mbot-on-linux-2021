@@ -8,9 +8,9 @@ the newest are here: https://dl.makeblock.com/mblock5/linux/mLink-1.2.0-1.el7.x8
 - .RPM: https://dl.makeblock.com/mblock5/linux/mLink-1.2.0-1.el7.x86_64.rpm
 - AUR: https://aur.archlinux.org/packages/mlink/ - Tested and its working
 
-Then go to one of those websites ( They actually dont require loging in! ):
-- https://ide.mblock.cc - to program using blocks and cpp. Its not advertised anywhere, its possible that it will be shutted down, but for now it works
-- https://ide.makeblock.com - to program using blocks and python
+Then go to one of those websites, i dont know the diffrence ( They actually dont require loging in! ):
+- https://ide.mblock.cc
+- https://ide.makeblock.com
 
 surprisingly, the bluetooth - usb stick that comes with the mBot works out of the box and its clever designed. Its detected by linux as a ch341-uart device, not a bluetooth card.
 
